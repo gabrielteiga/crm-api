@@ -6,9 +6,10 @@
     - Fastify
     - MongoDB
     - Prisma
+    - Postman
 
 ### Run software (dev mode)
     npm run dev
 
 ### Acessando API
-    Teste: localhost:3333/teste
+    localhost:3333/teste
